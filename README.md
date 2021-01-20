@@ -23,3 +23,11 @@ With resulting output:
 187
 196
 ```
+
+## How to run ruby program
+
+```$ ruby find_lucky_number.rb```
+
+## How to run Test Case (RSpec)
+
+```$ rspec specs_lucky_number.rb```
